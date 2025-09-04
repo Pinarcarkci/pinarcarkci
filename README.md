@@ -1,6 +1,6 @@
 # Hi, I'm Pinar Carkci
 
-I am a second-year software development student at TER AA Helmond.  
+I am a second-year software developer student at TER AA Helmond.  
 Through my studies I’ve gained experience with **HTML, CSS, PHP, MySQL, C++ (Arduino), and C# (WinForms)**.  
 Lately I’ve also been learning **JavaScript** to expand my skills.  
 
