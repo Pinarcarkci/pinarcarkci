@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Pinar Carkci
 
-<!--
-**Pinarcarkci/pinarcarkci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a second-year software development student at TER AA Helmond.  
+Through my studies I’ve gained experience with **HTML, CSS, PHP, MySQL, C++ (Arduino), and C# (WinForms)**.  
+Lately I’ve also been learning **JavaScript** to expand my skills.  
 
-Here are some ideas to get you started:
+I enjoy trying out different kinds of projects — from web development to embedded systems — to see where I can grow the most.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- **Web:** HTML, CSS, PHP, MySQL, JavaScript (learning)  
+- **Programming:** C++, C#, OOP basics  
+- **Other:** Arduino projects, Windows Forms applications
+
+- You can find my projects in my repositories
